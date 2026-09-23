@@ -1,0 +1,103 @@
+# REGISTRE DES SOURCES — Radar national associations et financements
+# Exécution : 2026-09-23. Date de consultation de TOUTES les sources : 23/09/2026.
+# Règle de fiabilité appliquée : la date de la source est celle indiquée dans le document lui-même
+# (ou, à défaut, la date de publication de la page). Les métadonnées de recherche sont
+# considérées comme NON FIABLES (un cas de datation erronée a été détecté et corrigé : article
+# Arab News/FNCIDFF, daté « 02/09/2026 » par le moteur mais publié le 05/11/2024 dans le texte).
+# Type : PRIMAIRE (document officiel/organisme) | PRESSE | REGISTRE | RECHERCHE-API
+# Niveau de complétude : COMPLET (page entière lue) | EXTRAIT (contenu partiel/paywall) | MÉTADONNÉES
+
+| # | Source | Lien | Date de la source | Type | Complétude | Usage |
+|---|---|---|---|---|---|---|
+| 1 | FNCIDFF — « Face aux VSS, les associations manquent toujours de moyens » | https://fncidff.info/face-aux-violences-sexistes-et-sexuelles-les-associations-manquent-toujours-de-moyens/ | 12/06/2026 | PRIMAIRE | COMPLET | P-01 : 12 CIDFF en rupture de trésorerie |
+| 2 | FNCIDFF — site officiel (actualités) | https://fncidff.info/ | 2026 (jusqu'au 30/06/2026) | PRIMAIRE | COMPLET | P-01 : assises 06/2026, étude 30/06/2026 |
+| 3 | FNCIDFF — Assises nationales des CIDFF 2026 | https://fncidff.info/assises-nationales-des-cidff-2026-les-cidff-aux-cotes-de-toutes-les-femmes/ | 24/06/2026 | PRIMAIRE | EXTRAIT | P-01 : vie du réseau |
+| 4 | FNCIDFF — étude Observatoire Jeanne Chauvin (ordonnance de protection) | https://fncidff.info/lobservatoire-jeanne-chauvin-publie-une-etude-sur-lordonnance-de-protection/ | 30/06/2026 | PRIMAIRE | EXTRAIT | P-01 : activités |
+| 5 | FNCIDFF — « Affaire Lyhanna : passer de la sidération à l'action » | https://fncidff.info/affaire-lyhanna-passer-de-la-sideration-a-laction/ | 09/06/2026 | PRIMAIRE | EXTRAIT | contexte VSS |
+| 6 | FNCIDFF — appel des réseaux féministes (budget 2026) | https://fncidff.info/legalite-entre-les-femmes-et-les-hommes-et-la-lutte-contre-les-violences-doivent-etre-la-priorite-du-futur-gouvernement/ | 11/09/2025 | PRIMAIRE | EXTRAIT | P-01/P-04 : « très grandes difficultés », Prime Ségur |
+| 7 | FNCIDFF — AG extraordinaire et semaine d'actions | https://fncidff.info/les-centres-dinformation-sur-les-droits-des-femmes-et-des-familles-organisent-une-semaine-dactions-pour-alerter-sur-leur-situation-financiere/ | 18/06/2025 | PRIMAIRE | EXTRAIT | P-01 : historique des suppressions de postes |
+| 8 | Arab News/AFP — FNCIDFF « fonds d'urgence » | https://www.arabnews.fr/france/les-centres-dinformation-sur-les-droits-des-femmes-en-appellent-a-la-solidarite-nationale-499010 | 05/11/2024 (date réelle — métadonnée de recherche erronée) | PRESSE | COMPLET | P-01 : fonds d'urgence, citation de la direction générale de la FNCIDFF |
+| 9 | Sénat — exposé des motifs PPL reconnaissance de la FNCIDFF | https://www.senat.fr/leg/exposes-des-motifs/ppl25-155-expose.html | 26/11/2025 | PRIMAIRE | EXTRAIT | P-01 : cadre agrément/CPOM |
+| 10 | monparcourshandicap.gouv.fr — glossaire FNCIDFF | https://www.monparcourshandicap.gouv.fr/glossaire/fncidff | 29/07/2026 | PRIMAIRE | EXTRAIT | P-01 : définition |
+| 11 | Wikipédia — CIDFF / FNCIDFF | https://fr.wikipedia.org/wiki/Centre_national_d%27information_des_droits_des_femmes_et_des_familles | 15/04/2026 (dernière MAJ) | RECHERCHE | EXTRAIT | P-01 : modèle de financement |
+| 12 | Pappers — identité FNCIDFF | https://www.pappers.fr/entreprise/fncidff-federation-nationale-des-centres-dinformation-sur-les-droits-des-femmes-et-des-familles-784315277 | 2026 | REGISTRE | EXTRAIT | identité |
+| 13 | Aides-territoires — FR-CIDFF Grand Est (projets) | https://aides-territoires.beta.gouv.fr/partenaires/2590-federation-regionale-des-centres-dinformation-sur-les-droits-des-femmes-et-des-familles-du-grand-est/ | 2026 | PRIMAIRE | EXTRAIT | P-01 : montage d'appels à projets du réseau |
+| 14 | Les Nouvelles News (Clara Authiat) — FNSF alerte hébergement | https://www.lesnouvellesnews.fr/violences-faites-aux-femmes-la-federation-nationale-solidarite-femmes-tire-la-sonnette-dalarme/ | 08/09/2026 | PRESSE | EXTRAIT (paywall partiel) | P-04 : fermetures de centres, −12 à −20 % de subventions (extrait de recherche) |
+| 15 | Kering Foundation — FNSF (Solidarité Femmes) | https://www.keringfoundation.org/fr/programmes/federation-nationale-solidarite-femmes-fnsf/ | non précisée | PRIMAIRE | EXTRAIT | P-04 : présentation (81 associations, 3919) |
+| 16 | Carenews — FNSF référé contre le marché du 3919 | https://www.carenews.com/fr/news/3919-la-federation-nationale-solidarite-femmes-a-saisi-la-justice-pour-faire-annuler-le | 25/01/2021 | PRESSE | EXTRAIT | P-04 : historique 3919 |
+| 17 | VoxPublic — référé FNSF (communiqué) | https://www.voxpublic.org/La-Federation-Nationale-Solidarite-Femmes-introduit-un-refere-pour-obtenir-l.html | 20/01/2021 | PRIMAIRE | EXTRAIT | P-04 : historique |
+| 18 | 20 Minutes — opérateur du 3919 saisit la justice | https://www.20minutes.fr/justice/2957471-20210120-violences-conjugales-operateur-3919-saisit-justice-contre-mise-concurrence | 20/01/2021 | PRESSE | COMPLET | P-04 : 80 % de financement État |
+| 19 | TF1 Info — budget du 3919 doublé en 2023 | https://www.tf1info.fr/politique/violences-faites-aux-femmes-conjugales-le-budget-alloue-au-numero-d-ecoute-3919-va-doubler-en-2023-2237917.html | 08/11/2022 | PRESSE | COMPLET | P-04 : 5,9 M€ 2023 |
+| 20 | TF1 Info — le gouvernement a-t-il baissé le budget du 3919 ? | https://www.tf1info.fr/politique/violences-conjugales-le-gouvernement-a-t-il-baisse-le-budget-alloue-au-numero-d-ecoute-3919-2234689.html | 03/03/2023 | PRESSE | EXTRAIT | P-04 : moyens humains |
+| 21 | Ministère Égalité F/H — moyens FNSF 2023 (5,9 M€) | https://www.egalite-femmes-hommes.gouv.fr/lutte-contre-les-violences-faites-aux-femmes-hausse-inedite-des-moyens-devolus-a-la-fnsf-pour-un-total-de-59-millions-deuros-en-2023 | 04/11/2022 | PRIMAIRE | EXTRAIT | P-04 |
+| 22 | Weka — associations tirent la sonnette d'alarme (dirigeante FNSF citée) | https://www.weka.fr/actualite/droit-des-femmes/article/violences-conjugales-des-associations-tirent-la-sonnette-d-alarme-sur-les-financements-169935/ | 04/09/2023 | PRESSE | EXTRAIT | P-04 : citation d'une dirigeante de la FNSF |
+| 23 | Cour des comptes — participation citoyenne (proposition de contrôle 3919) | https://participationcitoyenne.ccomptes.fr/processes/consultation-2025/f/79/proposals/2763 | 2025 | PRIMAIRE | EXTRAIT | P-04 : pression externe |
+| 24 | Handicap.fr/AFP — dons APF validés malgré les déficits | https://informations.handicap.fr/a-handicap-le-budget-de-l-apf-valide-malgre-un-deficit-39399.php | 04/07/2026 (rapport du 03/07/2026) | PRESSE | EXTRAIT | P-02 : Cour des comptes |
+| 25 | Notre Temps/AFP — APF France handicap | https://www.notretemps.com/depeches/apf-france-handicap-la-cour-des-comptes-valide-l-usage-des-dons-mais-alerte-sur-les-deficits-135466 | 03/07/2026 | PRESSE | EXTRAIT | P-02 |
+| 26 | Le Média Social — « un retour à l'équilibre hors d'atteinte » | https://www.lemediasocial.fr/deficit-dapf-france-handicap-un-retour-a-lequilibre-hors-datteinte-en-2026_wKgAXl | 07/07/2026 | PRESSE | EXTRAIT | P-02 |
+| 27 | ASH — APF doit revoir ses outils comptables | https://www.ash.tm.fr/autonomie/face-a-son-deficit-structurel-apf-france-handicap-doit-revoir-ses-outils-comptables-affirme-la-cour-des-comptes-974259.php | 07/07/2026 | PRESSE | EXTRAIT | P-02 : comptabilité analytique (chiffres divergents signalés) |
+| 28 | Handinova — APF toujours en déficit | https://handinova.fr/apf-france-handicap-toujours-en-deficit-sans-retour-a-lequilibre-envisage-sereinement/ | 18/07/2026 (mention « 3 juillet 2025 » = coquille probable) | PRESSE | EXTRAIT | P-02 |
+| 29 | Yanous — « L'APF en déficit structurel ou pas ? » | https://www.yanous.com/news/actualite/actualite2607.html | 07/2026 (AG du 26/06/2026) | PRESSE | EXTRAIT | P-02 : excédent 2025 de 7,6 M€ ; déficit cumulé 67,8 M€ |
+| 30 | APF France handicap — essentiel des comptes 2021 | https://www.apf-francehandicap.org/sites/default/files/documents/essentiel_comptes_2021.pdf | 2022 (exercice 2021) | PRIMAIRE | COMPLET | P-02 : structure des ressources |
+| 31 | actu.fr (Matthieu Gain) — Mobil'emploi a redressé la barre | https://actu.fr/bretagne/quimper_29232/quimper-dans-la-tourmente-financiere-comment-lassociation-mobil-emploi-a-reussi-a-redresser-la-barre_64090066.html | 02/04/2026 | PRESSE | COMPLET | P-03 : déficit 200 k€, aide 130 k€, « pérenniser le modèle économique » |
+| 32 | Le Péliérin — associations de solidarité en danger | https://www.lepelerin.com/france/economie/associations-de-solidarite-en-danger-un-tiers-menace-par-la-baisse-des-subventions-13647 | 23/11/2025 | PRESSE | EXTRAIT | P-03/P-12 : Mobil'emploi, ValOrise, étude FAS, PSE (Secours/APF/AIDES) |
+| 33 | Annuaire des entreprises — Mobil'emploi | https://annuaire-entreprises.data.gouv.fr/entreprise/481536902 | 2026 | REGISTRE | EXTRAIT | P-03 : identité |
+| 34 | Secours catholique — communiqué « projet de transformation » | https://www.secours-catholique.org/sites/default/files/03-Documents/17102025_CommuniquePresseTransfo.pdf | 17/10/2025 | PRIMAIRE | COMPLET | P-07 : PSE 932→802 CDI |
+| 35 | Valeurs Actuelles — Secours catholique : 130 postes | https://www.valeursactuelles.com/societe/le-secours-catholique-en-grande-difficulte-lassociation-prevoit-de-supprimer-130-postes | 17/10/2025 | PRESSE | COMPLET | P-07 |
+| 36 | Le Dauphiné — Secours catholique en péril | https://www.ledauphine.com/social/2025/10/17/difficultes-financieres-et-emplois-menaces-le-secours-catholique-en-peril | 18/10/2025 | PRESSE | EXTRAIT | P-07 |
+| 37 | franceinfo — Fondation pour le Logement : −15 % de dons | https://www.franceinfo.fr/faits-divers/abbe-pierre-accuse-de-violences-sexuelles/depuis-son-changement-de-nom-en-janvier-la-fondation-pour-le-logement-ex-fondation-abbe-pierre-a-enregistre-une-baisse-de-dons-d-environ-15-selon-son-delegue-general_7711429.html | 30/12/2025 | PRESSE | EXTRAIT | P-05 : déclarations du délégué général |
+| 38 | Huffington Post — ex-Fondation Abbé Pierre « préoccupée » | https://www.huffingtonpost.fr/france/article/l-ex-fondation-abbe-pierre-se-dit-vivement-preoccupee-par-son-avenir-apres-la-baisse-des-dons-clx1_245436.html | 08/02/2025 | PRESSE | EXTRAIT | P-05 : −30 % de dons depuis juillet |
+| 39 | RCF — la Fondation s'alarme de la baisse des dons | https://www.rcf.fr/articles/actualite/la-fondation-pour-le-logement-des-defavorises-exfondation-abbe-pierre-salarme-de | NON VÉRIFIÉE (probable début 2025 — à vérifier) | PRESSE | EXTRAIT | P-05 (datation U2-7) |
+| 40 | Sénat — amendement II-2056 (AIDES, plan de suppressions de postes) | https://www.senat.fr/amendements/2025-2026/138/Amdt_II-2056.html | 08/12/2025 | PRIMAIRE | EXTRAIT | P-06 : AIDES, −20 % DGS |
+| 41 | AIDES/Remaides — « sans les associations, nous perdrons le combat » | https://www.aides.org/actualite/lactu-remaides-vih-sans-les-associations-nous-perdrons-le-combat | 26/09/2025 | PRIMAIRE | EXTRAIT | P-06 : Ségur non compensé |
+| 42 | AIDES/Remaides — Anne Souyris interpelle le gouvernement | https://www.aides.org/actualite/lactu-remaides-vih-anne-souyris-interpelle-gouvernement | 26/11/2025 | PRIMAIRE | EXTRAIT | P-06 |
+| 43 | Reporterre — associations écologistes en étai (Amis de la Terre, FNE, AJC) | https://reporterre.net/Subventions-coupees-repression-Comment-l-Etat-asphyxie-les-associations-ecolos | 16/04/2026 | PRESSE | EXTRAIT | P-08/P-10/P-13 |
+| 44 | La Vie — associations en crise (Mouvement associatif) | https://www.lavie.fr/actualite/societe/associations-en-crise-14-million-de-structures-au-bord-du-gouffre-101458.php | 03/02/2026 (mobilisation du 11/10/2025) | PRESSE | EXTRAIT | signaux sectoriels |
+| 45 | Alternatives Économiques — nouvelles restrictions budgétaires | https://www.alternatives-economiques.fr/les-associations-inquietes-face-aux-nouvelles-restrictions-budgetaires_27-08-2025 | 17/09/2026 | PRESSE | EXTRAIT | contexte PLF 2027, procédures collectives |
+| 46 | mob-media — assos en danger (Planning familial) | https://mob-media.info/index.php/2026/04/21/assos-danger-revoltes-populaires-antidote-bollore/ | 21/04/2026 | PRESSE | EXTRAIT | P-09 : Loiret −10 %, Drôme −20 % |
+| 47 | Café pédagogique/FSU — 3 Md€ pour les VSS | https://cafepedagogique.net/2026/09/22/violences-sexistes-et-sexuelles-la-fsu-reclame-3-milliards-deuros-et-appelle-a-amplifier-la-mobilisation | 22/09/2026 | PRESSE | EXTRAIT | contexte loi intégrale VSS |
+| 48 | Titre Presse/Europe1 — 60 Md€ d'argent public aux associations | https://www.titrespresse.com/22161382603/associations-milliards-euros | ~21/09/2026 (contenu reprenant le PLF du 17/09/2026) | PRESSE | EXTRAIT | contexte cycle 2027 |
+| 49 | Commission européenne — fiche d'appel CERV-2026-DAPHNE v1 | https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/cerv/wp-call/2026/call-fiche_cerv-2026-daphne_en.pdf | 07/07/2026 | PRIMAIRE | PARTIELLE (outil limité à 30 p.) | F-01 (dates, budget, admissibilité, pièces) |
+| 50 | Île-de-France Europe — appel CERV Daphné 2026 (webinaire CIDEM) | https://www.iledefrance-europe.eu/actualites-europeennes/detail-actualites-europeennes/article/appel-a-projets-cerv-daphne-2026/ | 29/07/2026 | PRIMAIRE | EXTRAIT | F-01 : point de contact |
+| 51 | Europa Corsica — montants par topic CERV-2026-DAPHNE | https://europa.corsica/antenne-bruxelles/opportunites/appels-a-propositions/ | 2026 | PRIMAIRE | EXTRAIT | F-01 : 8/4/4 M€, montants par projet |
+| 52 | Opportunities for Youth — CERV-2026-DAPHNE | https://opportunitiesforyouth.org/2026/08/30/cerv-2026-daphne-eu-grants-to-prevent-and-combat-gender-based-violence-and-violence-against-children/ | 30/08/2026 | PRESSE | COMPLET | F-01 : 5 priorités |
+| 53 | Commission européenne — programme CERV (présentation) | https://commission.europa.eu/funding-and-tenders/find-funding/eu-funding-programmes/citizens-equality-rights-and-values-programme/citizens-equality-rights-and-values-programme-overview_en | 21/05/2026 (MAJ) | PRIMAIRE | EXTRAIT | F-01/F-05 |
+| 54 | SDJES 93 — appel FDVA 2026 (Seine-Saint-Denis) | https://www.seine-saint-denis.gouv.fr/Actualites/Appels-a-projets/Fonds-de-developpement-de-la-vie-associative-2026 | 21/01/2026 | PRIMAIRE | COMPLET | F-02 : pièces exigées |
+| 55 | Préfecture du Puy-de-Dôme — campagne FDVA 2026 | https://www.puy-de-dome.gouv.fr/index.php/Actualites/Actualites-2026/Janvier/Campagne-2026-des-demandes-de-subvention-pour-le-Fonds-pour-le-developpement-de-la-vie-associative | 20/01/2026 | PRIMAIRE | COMPLET | F-02 : fourchettes 1 000-10 000 € |
+| 56 | Préfecture de la Haute-Marne — FDVA 2026 | https://www.haute-marne.gouv.fr/index.php/Actions-de-l-Etat/Jeunesse-sports-education-populaire-vie-associative/Vie-Associative/Campagne-2026-du-Fonds-pour-le-developpement-de-la-vie-associative | 10/12/2025 | PRIMAIRE | COMPLET | F-02 : calendrier type |
+| 57 | Territoires Solidaires — campagne FDVA (PACA) | https://www.territoires-solidaires.com/appel-projet/campagne-fonds-de-developpement-de-la-vie-associative-fdva/ | 14/01/2026 | PRESSE | EXTRAIT | F-02 : dates départementales |
+| 58 | Académie de Toulouse — FDVA Haute-Garonne | https://www.ac-toulouse.fr/le-fonds-de-developpement-de-la-vie-associative-en-haute-garonne-124765 | 2026 | PRIMAIRE | EXTRAIT | F-02 : forfait 600 €/jour |
+| 59 | subventions.fr — aides publiques aux associations 2026 | https://subventions.fr/insights/aides-publiques-associations/ | 07/07/2026 | PRESSE | EXTRAIT | F-02 : FDVA 2 (3-15 k€) |
+| 60 | LegalPlace — subvention pour association | https://www.legalplace.fr/guides/subvention-association/ | 19/06/2026 | PRESSE | EXTRAIT | pièces usuelles |
+| 61 | Kobli — subventions association loi 1901 | https://kobli.fr/guides/subventions-association | 11/05/2026 | PRESSE | EXTRAIT | calendriers collectivités |
+| 62 | Région Nouvelle-Aquitaine — investissement vie associative | https://les-aides.nouvelle-aquitaine.fr/amenagement-du-territoire/investissement-pour-la-vie-associative | 2026 (dossier) | PRIMAIRE | EXTRAIT | F-06 |
+| 63 | Essor Grand Est — appels à projets (CASDEN, Idéa'dom, GAL, ADEME) | https://www.essor-grandest.org/projets.html | 2026 | PRIMAIRE | EXTRAIT | F-06 |
+| 64 | Wallis-et-Futuna — campagne ANS 2026 | https://www.wallis-et-futuna.gouv.fr/Actualites/Aides-au-financement-du-mouvement-sportif-Campagne-Agence-Nationale-du-Sport-2026 | 15/12/2025 | PRIMAIRE | EXTRAIT | F-03 : calendrier déduit 2027 |
+| 65 | FFTA — subventions PSF ANS | https://www.ffta.fr/nos-clubs/clubs-affilies-et-affiliation/subventions-agence-nationale-du-sport-ex-cnds | 03/2026 (calendrier 2026) | PRIMAIRE | EXTRAIT | F-03 : enveloppe 642 k€, taux 80 % |
+| 66 | Fédération française de ski — note de cadrage ANS/PSF | https://media.ffs.fr/pdf/documents/Note_de_cadrage_ANSPSF.pdf | 2026 | PRIMAIRE | COMPLET | F-03 : campagne 2027 = actions débutant en 2027 (officiel) |
+| 67 | FSCF — Projet Sportif Fédéral | https://www.fscf.asso.fr/projet-sportif-federal-psf | 19/03/2026 | PRIMAIRE | EXTRAIT | F-03 |
+| 68 | Fédération Sports pour Tous — PSF 2026 | https://www.sportspourtous.org/projet-sportif-federal-psf-campagne-2026/ | 10/04/2026 | PRIMAIRE | EXTRAIT | F-03 |
+| 69 | MATJS/J&S Polynésie — AAP Impact 2026 (ANS) | https://www.jeunesseetsport.com/actualites/appel-a-projets-impact-2026 | 23/07/2026 | PRIMAIRE | COMPLET | F-04 |
+| 70 | e-Solidarités — AAP Impact 2026 | https://www.e-solidarites.fr/association-et-pouvoir-dagir/appel-projets-impact-edition-2026-de-lagence-nationale-du-sport | 24/07/2026 | PRESSE | EXTRAIT | F-04 |
+| 71 | Freetness — guide AAP Impact 2026 | https://freetness.fr/infos/appel-a-projets-impact-2026-ans-le-guide-complet-pour-financer-vos-equipements-sportifs/ | 05/08/2026 | PRESSE | COMPLET | F-04 : calendrier instruction |
+| 72 | FFCK — subventions fédérales (fonds d'aide au développement) | https://www.ffck.org/federation/structures/subventions/ | 15/04/2021 | PRIMAIRE | EXTRAIT | rejet (hors cibles) |
+| 73 | Foot amateur Ouest-France — FAFA 2026-2027 | https://footamateur.ouest-france.fr/la-fff-lance-le-fonds-daide-au-football-amateur-2026-2027/ | 06/07/2026 | PRESSE | EXTRAIT | rejet (hors cibles) |
+| 74 | HelloAsso — FNSF Sourds de France | https://www.helloasso.com/associations/federation-nationale-des-sourds-de-france | non précisée | PRIMAIRE | EXTRAIT | P-11 : « aucune subvention » (datation à vérifier) |
+| 75 | dons-legs.com — FNSF Sourds de France | https://www.dons-legs.com/v2/association-organisme-federation-nationale-des-sourds-de-france-119226/ | non précisée | REGISTRE | EXTRAIT | P-11 : contacts publics |
+| 76 | Sénat — question n° 04991 (FNSF Sourds, difficultés financières) | https://www.senat.fr/questions/base/1997/qSEQ971204991.html | 18/12/1997 (réponse 21/05/1998) | PRIMAIRE | COMPLET | P-11 : antécédents |
+| 77 | fnsf.org — FAQ (Sourds de France) | https://www.fnsf.org/faq/ | 04/06/2024 | PRIMAIRE | EXTRAIT | P-11 : cotisations, dons |
+| 78 | fnsf.assoconnect.com — adhésion FNSF 2026 (Sourds de France) | https://www.fnsf.assoconnect.com/page/1718489-affiliation-a-la-fnsf | 2026 | PRIMAIRE | EXTRAIT | P-11 : seuil 500 k€ des membres |
+| 79 | Pappers — identité FNSF Sourds de France | https://www.pappers.fr/entreprise/fnsf-federation-nationale-des-sourds-france-308235233 | 2026 | REGISTRE | EXTRAIT | P-11 : identité |
+| 80 | GitHub Search API — « Mission Radar », « radar associations », « JLD conseils » | https://api.github.com/search/repositories | 23/09/2026 (requêtes en direct) | RECHERCHE-API | COMPLET | §10 : aucun dépôt du projet trouvé |
+
+**Compteur : 80 sources consultées (liens uniques réellement consultés et utilisés dans l'analyse).**
+
+### Sources en échec ou partielles (conséquences)
+| Source | Échec | Conséquence |
+|---|---|---|
+| Rapport « Radar Associations et Financements » du 14/09/2026 + dossiers de travail | introuvables | pas de suite possible des travaux ; barème non documenté ; scores refaits sur grille provisoire |
+| Dépôt GitHub « Mission Radar » | non accessible (aucune identité, aucun dépôt public correspondant) | publication non effectuée (§10 du rapport) |
+| Fiche CERV-2026-DAPHNE au-delà de la p. 30 | outil de lecture PDF limité | taux de cofinancement et montants des priorités 4-5 marqués « à vérifier » |
+| Article Les Nouvelles News (P-04) | corps payant au-delà de l'encadré | chiffre « −12 à −20 % » issu de l'extrait de recherche — non recoupé |
+| Article RCF (P-05) | date de publication non lisible dans le texte | datation « à vérifier » |
+| Dates des pages HelloAsso / dons-legs (P-11) | non précisées | arguments P-11 affaiblis (score C6 = 3) |

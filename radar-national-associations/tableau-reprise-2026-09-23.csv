@@ -1,0 +1,17 @@
+numero;travaille_annonce_le_2026-09-14;statut_au_2026-09-23;trace_retrouvee;reprise_du_2026-09-23;suite_attendue
+1;Rapport Radar du 14/09/2026;Non réalisé / perdu;Aucune;Rapport neuf rédigé (RAPPORT-REPRISE-2026-09-23.md);Roch : retrouver ou déclarer perdu le rapport initial
+2;Registre des sources et fiches d'associations;Non réalisé (sans trace);Aucune;Recréés (registre-sources.md ; fiches/PISTES.md);Enrichissement continu aux exécutions lundi/jeudi
+3;Fiches financements;Non réalisé (sans trace);Aucune;Recréé (fiches/FINANCEMENTS.md);Vérifications U1-3 (taux cofinancement CERV)
+4;Rapprochements association/financement/mission;Non réalisé (sans trace);Aucune;Refaits (§7 du rapport);Arbitrage de Roch
+5;Scores et niveaux de confiance;Non réalisé (sans trace);Aucune;Refaits sur grille provisoire (barème non documenté);Validation du barème par Roch
+6;Registre des rejets et motifs;Non réalisé (sans trace);Aucune;Recréé (historique-rejets.md);—
+7;Points laissés à vérifier;Non réalisé (sans trace);Aucune;Reconstitués classés par urgence (§9);13 vérifications ouvertes
+8;Surveillance régulière (lundi/jeudi matin);Non réalisé — aucune trace d'exécution entre le 14/09 et le 23/09;Aucune;Première exécution documentée le 23/09/2026;Reprogrammée : jeudi 24/09, lundi 28/09...
+9;Contrôle prioritaire piste FNCIDFF;Non réalisé puis repris avec pièces le 23/09;Fiche P-01 + sources datées;Fait;Approche soumise à validation L5
+10;Contrôle prioritaire piste FNSF;Non réalisé puis repris avec pièces le 23/09 (identité non levée);Fiches P-04 et P-11;Fait (partiel);Roch : trancher l'acronyme FNSF
+11;Contrôle prioritaire APF France handicap;Non réalisé puis repris avec pièces le 23/09;Fiche P-02;Fait;Approche soumise à validation L5
+12;Contrôle prioritaire programme CERV Daphné;Non réalisé puis repris avec pièces le 23/09;Fiche F-01 (fiche officielle CE);Fait;Montage possible avant clôture 03/11/2026
+13;Examen des associations franciliennes de taille intermédiaire annoncées;Non réalisé — périmètre annoncé perdu;Aucune;Substituts documentés (P-05, P-11);Roch : fournir la liste annoncée le 14/09
+14;Dépôt GitHub Mission Radar;Non réalisé;Erreur git consignée (§10);Fichiers prêts ; publication NON faite;Roch : nom exact du dépôt + accès
+15;Vérification du déclencheur n8n;Non réalisé;Aucune;Constat du 23/09/2026 : non configuré;Décider de l'automatisation
+16;Alertes des échéances du 14/09 au 23/09;Sans objet (période révolue sans alerte enregistrée);Aucune;—;—
